@@ -16,3 +16,6 @@ randomly thought of the following algorithm, which produced some interesting beh
 >the length of this sequence follows a repetitive pattern for all (seems so, not sure) groups n-digit numbers
 
 can somebody make sense of this
+
+<p align='center'>example of pattern:<br>
+<img src='unknown.png'></p>
