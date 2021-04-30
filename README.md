@@ -12,6 +12,6 @@ randomly thought of the following algorithm, which produced some interesting beh
 
 >this sequence, when it ends, will always end in zero, with the value of the second last step being a number composed entirely of 9s, as long as the number has atleast 2 different digits.
 
->the length of this sequence follows a repetitive pattern for all groups n-digit numbers
+>the length of this sequence follows a repetitive pattern for all (seems so, not sure) groups n-digit numbers
 
 can somebody make sense of this
