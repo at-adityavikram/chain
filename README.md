@@ -4,7 +4,7 @@ found a weird number pattern randomly, HAD to make a quick-and-dirty script to c
 just run the allgch() function with any range of your choice, say 1-512 and start the program.
 fspt() displays the chain of a given number (not chain length)
 
-randomly thought of the following algorithm, which produced some interesting behaviour. not sure why exactly it does most of that. some numbers dont behave at all, starting somewhere in the low thousands. when it does behave the endpoint makes sense, but its almost always a number composed eniterly of 9s.
+randomly thought of the following algorithm, which produced some interesting behaviour. not sure why exactly it does most of that. some numbers dont behave at all, starting somewhere in the low thousands. when it does behave the endpoint makes sense, its almost always a number composed eniterly of 9s (fully self-similar(?) basically)
 
 >take a random number preferably greater than 1 digit
 >subtract the reverse of that number from  it, and keep repeating this step with the following constraints:
